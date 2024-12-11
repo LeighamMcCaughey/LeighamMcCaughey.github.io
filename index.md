@@ -1,8 +1,8 @@
 # Leigham McCaughey's Portfolio
 
-I am a computer science major at CSUF and I plan on graduating in 2028
+I am a computer science major at [Cal State Fullerton](http://www.fullerton.edu/) and I plan on graduating in 2028
 
-## favorite CPSC 120L Labs
+## CPSC 120
 
 *Lab 3 Part 2 - Date Difference*
 
