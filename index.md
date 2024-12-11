@@ -2,9 +2,13 @@
 
 I am a computer science major at [Cal State Fullerton](http://www.fullerton.edu/) and I plan on graduating in 2028
 
+## Computer Science Projects
+
+My GitHub page is http://github.com/LeighamMcCaughey.
+
 ## CPSC 120
 
-*Lab 3 Part 2 - Date Difference*
+**Lab 3 Part 2 - Date Difference**
 
  This lab was one of my favorites because it really *challenged* me at first because I was confused by how it worked and what I was doing. The goal of this lab was to figure out how many days were in between two given dates, which seemed simple enough, but my partner and I got confused on what *Julian Day* was and why we were using it. Once we figured it out it was pretty easy and was really satisfying to get to the point where I understood. I realized through this lab that most things are more simple than I think they are and I tend to overcomplicate the logic. I learned in this lab to take things one step at a time and think more clearly which I was able to take with me into other labs. Although I still had a tendency to *overcomplicate* things, this lab definitely helped begin to guide me in the right direction.
 
